@@ -2,12 +2,12 @@
 
 A beautifully designed, interactive memory card game built with React, TypeScript, and Tailwind CSS. Test your memory by matching pairs of cards in this engaging web application.
 
-![Memory Game Screenshot](https://lustrous-horse-a395cf.netlify.app/screenshot.png)
+![Memory Game Screenshot](./Screenshot.png)
 
 ## 🎮 Play Now
 
 You can play the game live at: [Memory Game](https://lustrous-horse-a395cf.netlify.app)
-
+The game is like here: https://lustrous-horse-a395cf.netlify.app/
 ## ✨ Features
 
 - Interactive card-matching gameplay
